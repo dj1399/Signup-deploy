@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Signup-deploy/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Signup-deploy/static/js/main.6526394c.chunk.js",
+    "main.js.map": "/Signup-deploy/static/js/main.6526394c.chunk.js.map",
+    "runtime-main.js": "/Signup-deploy/static/js/runtime-main.e84df879.js",
+    "runtime-main.js.map": "/Signup-deploy/static/js/runtime-main.e84df879.js.map",
+    "static/js/2.a7750eea.chunk.js": "/Signup-deploy/static/js/2.a7750eea.chunk.js",
+    "static/js/2.a7750eea.chunk.js.map": "/Signup-deploy/static/js/2.a7750eea.chunk.js.map",
+    "static/js/3.25c6a25f.chunk.js": "/Signup-deploy/static/js/3.25c6a25f.chunk.js",
+    "static/js/3.25c6a25f.chunk.js.map": "/Signup-deploy/static/js/3.25c6a25f.chunk.js.map",
+    "index.html": "/Signup-deploy/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Signup-deploy/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.a7750eea.chunk.js.LICENSE.txt": "/Signup-deploy/static/js/2.a7750eea.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Signup-deploy/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e84df879.js",
+    "static/js/2.a7750eea.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.6526394c.chunk.js"
+  ]
+}
